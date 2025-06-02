@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "hot_iron:crucible",
+    "hot_iron:burning_charcoal_pile",
+    "hot_iron:coal_pile_block",
+    "hot_iron:smithing_anvil"
+  ]
+}

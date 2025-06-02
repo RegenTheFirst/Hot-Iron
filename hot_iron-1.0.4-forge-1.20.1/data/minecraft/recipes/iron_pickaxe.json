@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " a",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "hot_iron:polished_iron_pickaxe_head_in_tongs"
+    },
+    "b": {
+      "item": "hot_iron:tool_handle"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_pickaxe",
+    "count": 1
+  }
+}

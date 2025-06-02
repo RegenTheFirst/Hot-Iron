@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aba",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "hot_iron:iron_armor_strap"
+    },
+    "b": {
+      "tag": "forge:plates/iron"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_chestplate",
+    "count": 1
+  }
+}

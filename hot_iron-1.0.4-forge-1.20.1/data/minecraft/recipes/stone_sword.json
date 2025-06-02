@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " a",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "hot_iron:stone_sword_blade"
+    },
+    "b": {
+      "tag": "hot_iron:basic_tool_sword_handles"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_sword",
+    "count": 1
+  }
+}
