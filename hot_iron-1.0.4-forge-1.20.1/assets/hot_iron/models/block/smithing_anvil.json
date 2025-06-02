@@ -1,0 +1,10 @@
+{
+  "parent": "hot_iron:custom/smithinganvil",
+  "textures": {
+    "all": "hot_iron:block/smithing_anvil",
+    "particle": "hot_iron:block/anvil_break_particle",
+    "anvil": "hot_iron:block/smithing_anvil",
+    "wood": "hot_iron:block/smithing_anvil_bottom"
+  },
+  "render_type": "cutout_mipped"
+}

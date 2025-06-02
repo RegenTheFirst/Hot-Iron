@@ -1,0 +1,9 @@
+{
+  "parent": "hot_iron:custom/high_fire",
+  "textures": {
+    "all": "hot_iron:block/fire_animated",
+    "particle": "hot_iron:block/empty_texture",
+    "0": "hot_iron:block/fire_animated"
+  },
+  "render_type": "cutout_mipped"
+}

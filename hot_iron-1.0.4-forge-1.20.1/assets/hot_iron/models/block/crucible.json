@@ -1,0 +1,9 @@
+{
+  "parent": "hot_iron:custom/crucible",
+  "textures": {
+    "all": "hot_iron:block/crucible",
+    "particle": "hot_iron:block/crucible",
+    "0": "hot_iron:block/crucible"
+  },
+  "render_type": "solid"
+}

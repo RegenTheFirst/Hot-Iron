@@ -1,0 +1,9 @@
+{
+  "parent": "hot_iron:custom/chopping_stump",
+  "textures": {
+    "all": "hot_iron:block/chopping_stump",
+    "particle": "hot_iron:block/chopping_stump",
+    "stump": "hot_iron:block/chopping_stump"
+  },
+  "render_type": "cutout_mipped"
+}

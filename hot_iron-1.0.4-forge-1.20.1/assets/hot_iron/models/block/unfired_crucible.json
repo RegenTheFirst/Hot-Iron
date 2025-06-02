@@ -1,0 +1,9 @@
+{
+  "parent": "hot_iron:custom/crucible",
+  "textures": {
+    "all": "hot_iron:block/unfired_crucible",
+    "particle": "minecraft:block/clay",
+    "0": "hot_iron:block/unfired_crucible"
+  },
+  "render_type": "solid"
+}

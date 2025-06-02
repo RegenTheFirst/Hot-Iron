@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "hot_iron:item/hot_iron_pickaxe_head_in_tongs"
+  }
+}

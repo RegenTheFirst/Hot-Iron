@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hot_iron:block/coal_pile_burning",
+    "particle": "hot_iron:block/coal_pile_burning"
+  },
+  "render_type": "solid"
+}
