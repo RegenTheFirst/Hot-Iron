@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "hot_iron:tool_handle",
+    "#forge:rods/wooden"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "hot_iron:hot_iron_ingot_in_tongs",
+    "hot_iron:iron_ingot_in_tongs",
+    "hot_iron:hot_iron_pickaxe_head_in_tongs",
+    "hot_iron:hot_diamond_pickaxe_head_in_tongs",
+    "hot_iron:hot_iron_sword_blade_in_tongs",
+    "hot_iron:hot_diamond_sword_blade_in_tongs",
+    "hot_iron:hot_iron_axe_head_in_tongs",
+    "hot_iron:hot_diamond_axe_head_in_tongs",
+    "hot_iron:hot_iron_shovel_head_in_tongs",
+    "hot_iron:hot_diamond_shovel_head_in_tongs",
+    "hot_iron:hoe_iron_hoe_head_in_tongs",
+    "hot_iron:hot_diamond_hoe_head_in_tongs"
+  ]
+}
