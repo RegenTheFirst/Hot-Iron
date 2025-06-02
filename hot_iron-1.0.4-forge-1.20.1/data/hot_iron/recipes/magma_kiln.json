@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:kiln_smelting",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_block"
+    }
+  ],
+  "output": {
+    "item": "minecraft:lava_bucket",
+    "count": 1
+  }
+}

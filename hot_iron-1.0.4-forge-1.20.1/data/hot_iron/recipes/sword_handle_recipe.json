@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:polishing",
+  "ingredients": [
+    {
+      "item": "hot_iron:tool_handle"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:sword_handle",
+    "count": 1
+  }
+}

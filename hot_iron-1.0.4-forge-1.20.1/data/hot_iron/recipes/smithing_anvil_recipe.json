@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aba",
+    " a ",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/iron"
+    },
+    "b": {
+      "item": "minecraft:iron_block"
+    },
+    "c": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "hot_iron:smithing_anvil",
+    "count": 1
+  }
+}

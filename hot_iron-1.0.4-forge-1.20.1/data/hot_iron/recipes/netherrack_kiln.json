@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:kiln_smelting",
+  "ingredients": [
+    {
+      "item": "minecraft:netherrack"
+    }
+  ],
+  "output": {
+    "item": "minecraft:magma_block",
+    "count": 1
+  }
+}

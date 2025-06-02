@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "a "
+  ],
+  "key": {
+    "a": {
+      "item": "hot_iron:knapped_rock"
+    }
+  },
+  "result": {
+    "item": "hot_iron:stone_axe_head",
+    "count": 1
+  }
+}

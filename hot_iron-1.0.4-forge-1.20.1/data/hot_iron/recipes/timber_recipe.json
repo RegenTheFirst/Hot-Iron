@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:chopping",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:timber",
+    "count": 4
+  }
+}

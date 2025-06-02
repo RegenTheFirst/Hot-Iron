@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:kiln_smelting",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs_that_burn"
+    }
+  ],
+  "output": {
+    "item": "minecraft:charcoal",
+    "count": 4
+  }
+}

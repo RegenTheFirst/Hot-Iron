@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/iron"
+    },
+    "b": {
+      "tag": "forge:leather"
+    },
+    "c": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "hot_iron:smithing_hammer",
+    "count": 1
+  }
+}

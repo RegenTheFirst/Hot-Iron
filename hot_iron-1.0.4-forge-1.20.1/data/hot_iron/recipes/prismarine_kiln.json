@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:kiln_smelting",
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine"
+    }
+  ],
+  "output": {
+    "item": "minecraft:prismarine_shard",
+    "count": 2
+  }
+}
