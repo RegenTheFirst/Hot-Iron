@@ -1,0 +1,100 @@
+{
+  "display": {
+    "icon": {
+      "item": "hot_iron:smithing_hammer"
+    },
+    "title": {
+      "translate": "advancements.local_smithery.title"
+    },
+    "description": {
+      "translate": "advancements.local_smithery.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "local_smithery_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hot_iron:smithing_anvil"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    },
+    "local_smithery_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hot_iron:smithing_hammer"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    },
+    "local_smithery_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hot_iron:smithing_tongs"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "hot_iron:deleted_mod_element",
+      "hot_iron:deleted_mod_element",
+      "hot_iron:iron_ingot_in_tongs",
+      "hot_iron:hot_iron_ingot_in_tongs",
+      "hot_iron:smithing_hammer_recipe",
+      "hot_iron:deleted_mod_element",
+      "hot_iron:smithing_tongs_recipe",
+      "hot_iron:deleted_mod_element",
+      "hot_iron:deleted_mod_element",
+      "hot_iron:deleted_mod_element",
+      "hot_iron:deleted_mod_element",
+      "hot_iron:deleted_mod_element",
+      "hot_iron:deleted_mod_element",
+      "hot_iron:deleted_mod_element",
+      "hot_iron:deleted_mod_element",
+      "hot_iron:deleted_mod_element",
+      "minecraft:diamond_pickaxe",
+      "hot_iron:deleted_mod_element",
+      "minecraft:diamond_sword",
+      "hot_iron:deleted_mod_element",
+      "minecraft:diamond_axe",
+      "hot_iron:deleted_mod_element",
+      "minecraft:diamond_shovel",
+      "hot_iron:deleted_mod_element",
+      "minecraft:diamond_hoe",
+      "minecraft:smithing_table",
+      "hot_iron:smithing_anvil_recipe"
+    ]
+  },
+  "parent": "minecraft:story/smelt_iron"
+}
