@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "hot_iron:block/unfired_crucible"
+    }
+  }
+}

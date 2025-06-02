@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "hot_iron:block/chopping_stump"
+    },
+    "blockstate=1": {
+      "model": "hot_iron:block/chopping_stump_blockstates_blockstate_0"
+    }
+  }
+}
