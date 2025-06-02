@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hot_iron:hot_iron_ingot"
+    },
+    {
+      "item": "hot_iron:smithing_tongs"
+    }
+  ],
+  "result": {
+    "item": "hot_iron:hot_iron_ingot_in_tongs",
+    "count": 1,
+    "nbt": "{\"ItemHeld\":\"hot_iron:hot_iron_ingot\"}"
+  }
+}

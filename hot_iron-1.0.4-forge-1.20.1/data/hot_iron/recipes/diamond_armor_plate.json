@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bab",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:plates/diamond"
+    },
+    "b": {
+      "tag": "forge:leather"
+    }
+  },
+  "result": {
+    "item": "hot_iron:diamond_armor_strap",
+    "count": 3
+  }
+}

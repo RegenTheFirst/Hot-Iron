@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:polishing",
+  "ingredients": [
+    {
+      "item": "hot_iron:diamond_sword_blade_in_tongs"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:polished_diamond_sword_blade_in_tongs",
+    "count": 1
+  }
+}

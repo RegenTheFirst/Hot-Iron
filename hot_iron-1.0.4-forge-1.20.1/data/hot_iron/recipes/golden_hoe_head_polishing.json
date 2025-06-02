@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:polishing",
+  "ingredients": [
+    {
+      "item": "hot_iron:golden_hoe_head"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:polished_golden_hoe_head",
+    "count": 1
+  }
+}

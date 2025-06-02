@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:polishing",
+  "ingredients": [
+    {
+      "item": "hot_iron:golden_axe_head"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:polished_golden_axe_head",
+    "count": 1
+  }
+}

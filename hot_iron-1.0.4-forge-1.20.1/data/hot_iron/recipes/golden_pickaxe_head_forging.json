@@ -1,0 +1,36 @@
+{
+  "type": "hot_iron:forging",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:golden_pickaxe_head",
+    "count": 1
+  }
+}

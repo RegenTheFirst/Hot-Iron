@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:cooling",
+  "ingredients": [
+    {
+      "item": "hot_iron:hot_shield_frame_in_tongs"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:shield_frame_in_tongs",
+    "count": 1
+  }
+}

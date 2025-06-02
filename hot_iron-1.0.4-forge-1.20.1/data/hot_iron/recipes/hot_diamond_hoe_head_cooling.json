@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:cooling",
+  "ingredients": [
+    {
+      "item": "hot_iron:hot_diamond_hoe_head_in_tongs"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:diamond_hoe_head_in_tongs",
+    "count": 1
+  }
+}

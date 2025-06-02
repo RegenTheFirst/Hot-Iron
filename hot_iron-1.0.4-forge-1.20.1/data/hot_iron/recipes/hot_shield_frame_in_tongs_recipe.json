@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hot_iron:hot_shield_frame"
+    },
+    {
+      "item": "hot_iron:smithing_tongs"
+    }
+  ],
+  "result": {
+    "item": "hot_iron:hot_shield_frame_in_tongs",
+    "count": 1
+  }
+}

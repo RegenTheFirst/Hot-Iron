@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:polishing",
+  "ingredients": [
+    {
+      "item": "hot_iron:golden_sword_blade"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:polished_golden_sword_blade",
+    "count": 1
+  }
+}

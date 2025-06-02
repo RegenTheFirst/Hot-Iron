@@ -1,0 +1,36 @@
+{
+  "type": "hot_iron:forging",
+  "ingredients": [
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "item": "hot_iron:hot_iron_axe_head"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:hot_diamond_axe_head",
+    "count": 1
+  }
+}

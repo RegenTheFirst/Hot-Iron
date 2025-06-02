@@ -1,0 +1,36 @@
+{
+  "type": "hot_iron:forging",
+  "ingredients": [
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "tag": "forge:plates/iron"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    },
+    {
+      "tag": "hot_iron:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:diamond_plate",
+    "count": 1
+  }
+}

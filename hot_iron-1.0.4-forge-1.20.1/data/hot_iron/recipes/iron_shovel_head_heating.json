@@ -1,0 +1,13 @@
+{
+  "type": "hot_iron:heating",
+  "ingredients": [
+    {
+      "item": "hot_iron:iron_shovel_head_in_tongs"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:hot_iron_shovel_head_in_tongs",
+    "count": 1,
+    "nbt": "{\"ItemHeld\":\"hot_iron:hot_iron_shovel_head\"}"
+  }
+}

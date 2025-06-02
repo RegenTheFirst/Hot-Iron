@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "hot_iron:hot_iron_pickaxe_head"
+    },
+    "b": {
+      "item": "hot_iron:smithing_tongs"
+    }
+  },
+  "result": {
+    "item": "hot_iron:hot_iron_pickaxe_head_in_tongs",
+    "count": 1,
+    "nbt": "{\"ItemHeld\":\"hot_iron:hot_iron_pickaxe_head\"}"
+  }
+}

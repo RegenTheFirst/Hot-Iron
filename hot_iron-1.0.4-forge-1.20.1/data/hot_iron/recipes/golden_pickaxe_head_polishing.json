@@ -1,0 +1,12 @@
+{
+  "type": "hot_iron:polishing",
+  "ingredients": [
+    {
+      "item": "hot_iron:golden_pickaxe_head"
+    }
+  ],
+  "output": {
+    "item": "hot_iron:polished_golden_pickaxe_head",
+    "count": 1
+  }
+}
